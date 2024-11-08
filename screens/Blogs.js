@@ -8,18 +8,18 @@ function Blogs({navigation}) {
     <View style={styles.container}>
       <ScrollView contentContainerStyle={styles.scrollViewContent}>
         <Card
-          title="Unveiling a Personalized Path to Glowing Complexion"
-          description="Dive into the world of AI-powered skin analysis, explore how it personalizes your skincare routine, and..."
+          title="Unveiling a Personalized Path to getting a Good healthcare"
+          description="Dive into the world of AI-powered haelth analysis, explore how it personalizes your healthcare routine, and..."
           imageSource={require('../assets/blog1.webp')}
         />
         <Card
-          title="How AI Skincare Apps Go Deeper Than Skin Deep"
-          description="Unravel the science behind AI skin analysis, uncover hidden concerns beneath the surface, and..."
+          title="How AI Healthcare Apps provide better and quicker alternate."
+          description="Unravel the science behind AI Health analysis, uncover hidden concerns beneath the surface, and..."
           imageSource={require('../assets/blog2.jpg')}
         />
         <Card
-          title="My Journey with AI-Driven Skincare"
-          description="My skin was a mystery, but this AI app cracked the code! Glow-up achieved ✨"
+          title="My Journey with AI-Driven Healthcare"
+          description="After using its dietary plans, I was able to plan my routine for my Dream physique✨- says one customer"
           imageSource={require('../assets/blog3.png')}
         />
       </ScrollView>
